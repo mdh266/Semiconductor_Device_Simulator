@@ -1,6 +1,6 @@
-
 # Semiconductor Device Simulator
 
+## Introduction
 This code is designed to numerically solve the <a href="http://www.iue.tuwien.ac.at/phd/triebl/node15.html"> 
 Drift-Diffusion-Poisson equations </a> in 2D or 3D for <a href="https://en.wikipedia.org/wiki/Semiconductor_device">
 Semiconductor Devices</a>, like the transistor depicted below,
@@ -20,7 +20,8 @@ and time stepping is performed using
 ## Requirements
 The requirements for this software is deal.ii library version 8.4.0 or highe and CMake version 2.8 or higher.
 
-## Installation 
+
+## Installation
 First obtain and install a copy of the dealii deal.ii library version 8.4.0 or higher. 
 
 ## Compiling
